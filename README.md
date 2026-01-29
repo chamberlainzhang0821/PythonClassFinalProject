@@ -51,15 +51,13 @@ This project demonstrates the use of:
 
 ## 🗂️ Project Structure
 
-```text
-.
+
 ├── main.py        # Main game script
 ├── README.md      # Project documentation
 
 All question data is stored in a nested dictionary inside the script.
 
 
-```markdown
 # 🎮 英语词汇挑战赛 2025
 
 这是一个使用 **Python** 编写的终端（Terminal）英语词汇与语法测验游戏，作为 Python 课程项目开发，旨在通过游戏化方式提升英语学习的趣味性与互动性。
