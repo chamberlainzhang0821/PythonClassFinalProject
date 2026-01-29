@@ -92,10 +92,9 @@ All question data is stored in a nested dictionary inside the script.
 
 ## ▶️ 运行方式
 
-```bash
 python3 main.py
 
-🛠️ Key Python Concepts Used
+## 🛠️ Key Python Concepts Used
 	•	Dictionaries & nested data structures
 	•	Functions and return values
 	•	if-elif-else conditional logic
@@ -103,7 +102,7 @@ python3 main.py
 	•	random.sample() for question selection
 	•	Modular design for readability and scalability
 
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 This project was designed to:
 	•	Practice Python programming fundamentals
@@ -111,10 +110,10 @@ This project was designed to:
 	•	Understand how real-world applications manage data and control flow
 	•	Improve code organization and readability
 
-👥 Contributor
+## 👥 Contributor
 Boting Zhang
 
-📄 License
+## 📄 License
 
 This project is created for educational purposes.
 Free to use, modify, and expand for learning and practice.
