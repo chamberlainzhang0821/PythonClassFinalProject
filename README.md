@@ -51,9 +51,8 @@ This project demonstrates the use of:
 
 ## 🗂️ Project Structure
 
-
-├── main.py        # Main game script
-├── README.md      # Project documentation
+main.py
+README.md
 
 All question data is stored in a nested dictionary inside the script.
 
@@ -117,3 +116,4 @@ Boting Zhang
 
 This project is created for educational purposes.
 Free to use, modify, and expand for learning and practice.
+Copyright (c) 2026 Chambertin Zhang
